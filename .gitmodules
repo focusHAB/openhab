@@ -1,3 +1,4 @@
 [submodule "configurations"]
 	path = configurations
 	url = git@github.com:focusHAB/openhab-configurations.git
+	branch = master
